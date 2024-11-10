@@ -10,7 +10,7 @@
         { "numero": 3125673456 },
         { "numero": 3983657832 }
       ],
-      "thumb": "thumbs/riccardo_thumb.jpg",
+      "thumb": "thumbs/Riccardo.jpg",
       "cv_link": "riccardo.html"
     },
     {
@@ -23,7 +23,7 @@
         { "numero": 3146556783 },
         { "numero": 3980373032 }
       ],
-      "thumb": "thumbs/luca_thumb.jpg",
+      "thumb": "thumbs/Luca.jpg",
       "cv_link": "luca.html"
     },
     {
@@ -36,7 +36,7 @@
         { "numero": 3169485054 },
         { "numero": 3054893320 }
       ],
-      "thumb": "thumbs/anna_thumb.jpg",
+      "thumb": "thumbs/Anna.jpg",
       "cv_link": "anna.html"
     }
   ]
