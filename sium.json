@@ -10,8 +10,8 @@
         { "numero": 3125673456 },
         { "numero": 3983657832 }
       ],
-      "thumb": "img/riccardo_thumb.jpg",
-      "cv_link": "cv/riccardo.html"
+      "thumb": "thumbs/riccardo_thumb.jpg",
+      "cv_link": "riccardo.html"
     },
     {
       "nome": "Luca",
@@ -23,8 +23,8 @@
         { "numero": 3146556783 },
         { "numero": 3980373032 }
       ],
-      "thumb": "img/luca_thumb.jpg",
-      "cv_link": "cv/luca.html"
+      "thumb": "thumbs/luca_thumb.jpg",
+      "cv_link": "luca.html"
     },
     {
       "nome": "Anna",
@@ -36,8 +36,8 @@
         { "numero": 3169485054 },
         { "numero": 3054893320 }
       ],
-      "thumb": "img/anna_thumb.jpg",
-      "cv_link": "cv/anna.html"
+      "thumb": "thumbs/anna_thumb.jpg",
+      "cv_link": "anna.html"
     }
   ]
 }
